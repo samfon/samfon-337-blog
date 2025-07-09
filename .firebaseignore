@@ -1,0 +1,16 @@
+node_modules/
+.git/
+.vscode/
+src/
+server/
+.cursor/
+netlify/
+shared/
+*.log
+.env*
+.dockerignore
+.npmrc
+.prettierrc
+AGENTS.md
+components.json
+netlify.toml
